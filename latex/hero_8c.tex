@@ -1,0 +1,199 @@
+\hypertarget{hero_8c}{}\section{hero.\+c File Reference}
+\label{hero_8c}\index{hero.\+c@{hero.\+c}}
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$S\+D\+L/\+S\+D\+L.\+h$>$}\newline
+{\ttfamily \#include $<$S\+D\+L/\+S\+D\+L\+\_\+image.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}hero.\+h\char`\"{}}\newline
+Include dependency graph for hero.\+c\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{hero_8c__incl}
+\end{center}
+\end{figure}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{hero_8c_a38a0e5acc6bc70e6ba633614600ec9d7}{init} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_a624f766b1ff0fa9fff0468f08844ce3a}{init2} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_a057811a3d9cd58ff9b99c43d42149a7f}{setright} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_af7a30def34c0c79cae07e178561252e1}{setleft} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_a64b930ab443d9a341610887cb03af8da}{deplacerhero} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_aa0c6e17abebb653e823a7f48b153b44b}{blithero} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero}, S\+D\+L\+\_\+\+Surface $\ast$screen, int choix)
+\item 
+void \hyperlink{hero_8c_a47d78c641261389245a34c8484662075}{jump} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_ab28b973e75d358056e611bc586fd89e3}{donejumping} (\hyperlink{structhero}{hero} $\ast$\hyperlink{structhero}{hero})
+\item 
+void \hyperlink{hero_8c_af75055a4383728ef90eea68b82747196}{initminimap} (\hyperlink{hero_8h_a0e4a13c54ca0b78464c35eafd50d7d60}{mm} $\ast$m)
+\item 
+void \hyperlink{hero_8c_a4ada4b1d3752fff626bfa1d506cb63df}{blitminimap} (\hyperlink{hero_8h_a0e4a13c54ca0b78464c35eafd50d7d60}{mm} $\ast$m, S\+D\+L\+\_\+\+Surface $\ast$screen, int choix)
+\item 
+void \hyperlink{hero_8c_afbecac4a8134947583d06051cb683c69}{deplacementminihero} (\hyperlink{hero_8h_a0e4a13c54ca0b78464c35eafd50d7d60}{mm} $\ast$m, int direction)
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{hero_8c_aa0c6e17abebb653e823a7f48b153b44b}\label{hero_8c_aa0c6e17abebb653e823a7f48b153b44b}} 
+\index{hero.\+c@{hero.\+c}!blithero@{blithero}}
+\index{blithero@{blithero}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{blithero()}{blithero()}}
+{\footnotesize\ttfamily void blithero (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero,  }\item[{S\+D\+L\+\_\+\+Surface $\ast$}]{screen,  }\item[{int}]{choix }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=285pt]{hero_8c_aa0c6e17abebb653e823a7f48b153b44b_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_a4ada4b1d3752fff626bfa1d506cb63df}\label{hero_8c_a4ada4b1d3752fff626bfa1d506cb63df}} 
+\index{hero.\+c@{hero.\+c}!blitminimap@{blitminimap}}
+\index{blitminimap@{blitminimap}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{blitminimap()}{blitminimap()}}
+{\footnotesize\ttfamily void blitminimap (\begin{DoxyParamCaption}\item[{\hyperlink{hero_8h_a0e4a13c54ca0b78464c35eafd50d7d60}{mm} $\ast$}]{m,  }\item[{S\+D\+L\+\_\+\+Surface $\ast$}]{screen,  }\item[{int}]{choix }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=278pt]{hero_8c_a4ada4b1d3752fff626bfa1d506cb63df_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=303pt]{hero_8c_a4ada4b1d3752fff626bfa1d506cb63df_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_afbecac4a8134947583d06051cb683c69}\label{hero_8c_afbecac4a8134947583d06051cb683c69}} 
+\index{hero.\+c@{hero.\+c}!deplacementminihero@{deplacementminihero}}
+\index{deplacementminihero@{deplacementminihero}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{deplacementminihero()}{deplacementminihero()}}
+{\footnotesize\ttfamily void deplacementminihero (\begin{DoxyParamCaption}\item[{\hyperlink{hero_8h_a0e4a13c54ca0b78464c35eafd50d7d60}{mm} $\ast$}]{m,  }\item[{int}]{direction }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=346pt]{hero_8c_afbecac4a8134947583d06051cb683c69_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_a64b930ab443d9a341610887cb03af8da}\label{hero_8c_a64b930ab443d9a341610887cb03af8da}} 
+\index{hero.\+c@{hero.\+c}!deplacerhero@{deplacerhero}}
+\index{deplacerhero@{deplacerhero}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{deplacerhero()}{deplacerhero()}}
+{\footnotesize\ttfamily void deplacerhero (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=309pt]{hero_8c_a64b930ab443d9a341610887cb03af8da_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_ab28b973e75d358056e611bc586fd89e3}\label{hero_8c_ab28b973e75d358056e611bc586fd89e3}} 
+\index{hero.\+c@{hero.\+c}!donejumping@{donejumping}}
+\index{donejumping@{donejumping}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{donejumping()}{donejumping()}}
+{\footnotesize\ttfamily void donejumping (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=308pt]{hero_8c_ab28b973e75d358056e611bc586fd89e3_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_a38a0e5acc6bc70e6ba633614600ec9d7}\label{hero_8c_a38a0e5acc6bc70e6ba633614600ec9d7}} 
+\index{hero.\+c@{hero.\+c}!init@{init}}
+\index{init@{init}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{init()}{init()}}
+{\footnotesize\ttfamily void init (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=266pt]{hero_8c_a38a0e5acc6bc70e6ba633614600ec9d7_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_a624f766b1ff0fa9fff0468f08844ce3a}\label{hero_8c_a624f766b1ff0fa9fff0468f08844ce3a}} 
+\index{hero.\+c@{hero.\+c}!init2@{init2}}
+\index{init2@{init2}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{init2()}{init2()}}
+{\footnotesize\ttfamily void init2 (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=272pt]{hero_8c_a624f766b1ff0fa9fff0468f08844ce3a_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_af75055a4383728ef90eea68b82747196}\label{hero_8c_af75055a4383728ef90eea68b82747196}} 
+\index{hero.\+c@{hero.\+c}!initminimap@{initminimap}}
+\index{initminimap@{initminimap}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{initminimap()}{initminimap()}}
+{\footnotesize\ttfamily void initminimap (\begin{DoxyParamCaption}\item[{\hyperlink{hero_8h_a0e4a13c54ca0b78464c35eafd50d7d60}{mm} $\ast$}]{m }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=278pt]{hero_8c_af75055a4383728ef90eea68b82747196_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=303pt]{hero_8c_af75055a4383728ef90eea68b82747196_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_a47d78c641261389245a34c8484662075}\label{hero_8c_a47d78c641261389245a34c8484662075}} 
+\index{hero.\+c@{hero.\+c}!jump@{jump}}
+\index{jump@{jump}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{jump()}{jump()}}
+{\footnotesize\ttfamily void jump (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=275pt]{hero_8c_a47d78c641261389245a34c8484662075_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_af7a30def34c0c79cae07e178561252e1}\label{hero_8c_af7a30def34c0c79cae07e178561252e1}} 
+\index{hero.\+c@{hero.\+c}!setleft@{setleft}}
+\index{setleft@{setleft}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{setleft()}{setleft()}}
+{\footnotesize\ttfamily void setleft (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=281pt]{hero_8c_af7a30def34c0c79cae07e178561252e1_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{hero_8c_a057811a3d9cd58ff9b99c43d42149a7f}\label{hero_8c_a057811a3d9cd58ff9b99c43d42149a7f}} 
+\index{hero.\+c@{hero.\+c}!setright@{setright}}
+\index{setright@{setright}!hero.\+c@{hero.\+c}}
+\subsubsection{\texorpdfstring{setright()}{setright()}}
+{\footnotesize\ttfamily void setright (\begin{DoxyParamCaption}\item[{\hyperlink{structhero}{hero} $\ast$}]{hero }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=286pt]{hero_8c_a057811a3d9cd58ff9b99c43d42149a7f_icgraph}
+\end{center}
+\end{figure}

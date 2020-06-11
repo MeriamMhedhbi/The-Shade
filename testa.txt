@@ -1,0 +1,432 @@
+1800
+0
+0
+3a.png
+run=1
+s= 1
+r=1
+0
+0
+6a.png
+run=1
+s= 3
+r=2
+0
+0
+8a.png
+run=1
+s= 2
+r=3
+0
+0
+6a.png
+run=1
+s= 3
+r=1
+0
+0
+4a.png
+run=1
+s= 1
+r=2
+0
+0
+2a.png
+run=1
+s= 2
+r=2
+0
+0
+1a.png
+run=1
+s= 2
+r=3
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+0
+0
+1a.png
+run=1
+s= 2
+r=1
+0
+0
+8a.png
+run=1
+s= 2
+r=2
+0
+0
+6a.png
+run=1
+s= 3
+r=3
+0
+0
+7a.png
+run=0
+s= 1
+r=0
+1800
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+0
+0
+3a.png
+run=1
+s= 1
+r=2
+1800
+0
+0
+6a.png
+run=1
+s= 3
+r=1
+1800
+0
+0
+5a.png
+run=1
+s= 3
+r=1
+1800
+0
+0
+5a.png
+run=1
+s= 3
+r=1
+1800
+0
+0
+1a.png
+run=1
+s= 2
+r=2
+0
+0
+2a.png
+run=1
+s= 2
+r=2
+0
+0
+4a.png
+run=1
+s= 1
+r=1
+1800
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+4a.png
+run=1
+s= 1
+r=1
+0
+0
+5a.png
+run=1
+s= 3
+r=1
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+0
+0
+8a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+0
+0
+3a.png
+run=1
+s= 1
+r=2
+0
+0
+5a.png
+run=1
+s= 3
+r=2
+0
+0
+6a.png
+run=1
+s= 3
+r=2
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+0
+0
+5a.png
+run=1
+s= 3
+r=1
+0
+0
+4a.png
+run=1
+s= 1
+r=1
+1800
+0
+0
+1a.png
+run=1
+s= 2
+r=1
+0
+0
+3a.png
+run=1
+s= 1
+r=1
+0
+0
+7a.png
+run=1
+s= 1
+r=2
+0
+0
+6a.png
+run=1
+s= 3
+r=3
+1800
+0
+0
+8a.png
+run=1
+s= 2
+r=2
+0
+0
+5a.png
+run=1
+s= 3
+r=2
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+1800
+0
+0
+6a.png
+run=1
+s= 3
+r=1
+0
+0
+1a.png
+run=1
+s= 2
+r=1
+0
+0
+3a.png
+run=1
+s= 1
+r=2
+1800
+0
+0
+4a.png
+run=1
+s= 1
+r=1
+0
+0
+5a.png
+run=1
+s= 3
+r=2
+0
+0
+4a.png
+run=1
+s= 1
+r=3
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+0
+0
+1a.png
+run=1
+s= 2
+r=3
+1800
+0
+0
+3a.png
+run=1
+s= 1
+r=1
+1800
+0
+0
+3a.png
+run=1
+s= 1
+r=1
+0
+0
+6a.png
+run=1
+s= 3
+r=2
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+5a.png
+run=1
+s= 3
+r=1
+0
+0
+1a.png
+run=1
+s= 2
+r=2
+0
+0
+8a.png
+run=1
+s= 2
+r=3
+1800
+0
+0
+5a.png
+run=1
+s= 3
+r=1
+0
+0
+2a.png
+run=1
+s= 2
+r=2
+1800
+0
+0
+1a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+2a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+4a.png
+run=1
+s= 1
+r=1
+0
+0
+5a.png
+run=1
+s= 3
+r=2
+0
+0
+2a.png
+run=1
+s= 2
+r=3
+0
+0
+1a.png
+run=1
+s= 2
+r=1
+1800
+0
+0
+7a.png
+run=1
+s= 1
+r=1
+1800
+0
+0
+7a.png
+run=1
+s= 1
+r=1

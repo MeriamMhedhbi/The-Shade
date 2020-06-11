@@ -1,0 +1,5 @@
+<map id="score.h" name="score.h">
+<area shape="rect" id="node2" href="$lvl1_8c.html" title="lvl1.c" alt="" coords="5,80,59,107"/>
+<area shape="rect" id="node3" href="$score_8c.html" title="score.c" alt="" coords="83,80,149,107"/>
+<area shape="rect" id="node4" href="$vie_8c.html" title="vie.c" alt="" coords="173,80,224,107"/>
+</map>

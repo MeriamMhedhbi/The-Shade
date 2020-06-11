@@ -1,0 +1,13 @@
+<map id="lvl1.c" name="lvl1.c">
+<area shape="rect" id="node8" href="$hero_8h.html" title="hero.h" alt="" coords="733,80,792,107"/>
+<area shape="rect" id="node9" href="$scrolling_8h.html" title="scrolling.h" alt="" coords="817,80,898,107"/>
+<area shape="rect" id="node10" href="$colis_8h.html" title="colis.h" alt="" coords="922,80,982,107"/>
+<area shape="rect" id="node11" href="$t_8h.html" title="t.h" alt="" coords="1006,80,1045,107"/>
+<area shape="rect" id="node13" href="$vie_8h.html" title="vie.h" alt="" coords="1152,80,1203,107"/>
+<area shape="rect" id="node14" href="$score_8h.html" title="score.h" alt="" coords="1227,80,1293,107"/>
+<area shape="rect" id="node15" href="$enigme3_8h.html" title="enigme3.h" alt="" coords="1317,80,1400,107"/>
+<area shape="rect" id="node16" href="$background_8h.html" title="background.h" alt="" coords="1425,80,1525,107"/>
+<area shape="rect" id="node17" href="$closhard_8h.html" title="closhard.h" alt="" coords="1548,80,1631,107"/>
+<area shape="rect" id="node18" href="$collision_8h.html" title="collision.h" alt="" coords="1655,80,1735,107"/>
+<area shape="rect" id="node19" href="$save_8h.html" title="save " alt="" coords="1759,80,1820,107"/>
+</map>
